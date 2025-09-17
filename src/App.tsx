@@ -26,7 +26,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        This is my third commit one of his
+        arpan ghosh fourth commit
       </p>
     </>
   )
